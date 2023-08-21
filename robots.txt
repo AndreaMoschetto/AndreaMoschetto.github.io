@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://niria.github.io/sitemap.xml
+Sitemap: https://AndreaMoschetto.github.io/sitemap.xml
