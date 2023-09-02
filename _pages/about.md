@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.unict.it/'>University of Catania</a>, <a href='https://www.herakel.com/'>Herakel</a>
+subtitle: <a href='https://www.unict.it/'>University of Catania</a>
 
 profile:
   align: right
