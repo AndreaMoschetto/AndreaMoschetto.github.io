@@ -39,7 +39,17 @@
       "institution": "University of Catania, Sicily, Italy",
       "url": "https://www.unict.it/",
       "area": "Computer Science",
-      "studyType": "Bachelor's degree",
+      "studyType": "Master's degree - (in progress)",
+      "startDate": "2023-10-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Catania, Sicily, Italy",
+      "url": "https://www.unict.it/",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree - (in progress)",
       "startDate": "2018-10-01",
       "endDate": "",
       "score": "",
@@ -79,8 +89,10 @@
   ],
   "interests": [
     {
-      "name": "AI",
+      "name": "Data Science",
       "keywords": [
+        "AI",
+        "Data Analysis",
         "Neural Network",
         "Deep Learning",
         "Machine Learning"
