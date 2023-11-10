@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: DevBlog
 permalink: /projects/
 description: A growing collection of cool projects, ideas and funny experiments. Coming soon...
-nav: false
+nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
