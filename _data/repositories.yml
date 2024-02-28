@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+- AndreaMoschetto
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+- AndreaMoschetto/rpg-player-simulation
+- AndreaMoschetto/wfc2d-multiplayer-techdemo
+
