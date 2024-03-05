@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello! I'm Andrea Moschetto, a passionate software engineer driven by technology. I graduated cum laude with a Bachelor’s degree in Computer Science from the University of Catania in March 2024
+Hello! I'm Andrea Moschetto, a passionate software engineer driven by technology. I graduated cum laude with a Bachelor’s degree in Computer Science from the University of Catania in March 2024.
 
 My eagerness to explore and embrace new opportunities has steered me towards diverse ventures. Being welcomed into the ranks of Herakel as a Software Engineer and Developer in January 2023, I've honed programming skills and adopted innovative approaches.
 
