@@ -104,6 +104,18 @@
   ],
   "interests": [
     {
+      "name": "Communication",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Public Speaking",
+        "Emphaty",
+        "Active Listening",
+        "Engagement",
+        "Effective Presentation",
+        "Body Language"
+      ]
+    },
+    {
       "name": "Software Engineering",
       "icon": "fa-solid fa-tag",
       "keywords": [
@@ -134,14 +146,18 @@
       "name": "Logic and Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Formalization"
+        "Formalization",
+        "Functional programming",
+        "Formal Systems"
       ]
     },
     {
       "name": "AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Neural Networks"
+        "Neural Networks",
+        "Machine Learning",
+        "Data Science"
       ]
     }
   ],
