@@ -87,6 +87,3 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
-    - name: Create Google verification file
-      run: |
-        echo "google-site-verification: googlef90c715fa5afc4cb.html" > googlef90c715fa5afc4cb.html
