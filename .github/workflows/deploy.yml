@@ -89,4 +89,4 @@ jobs:
         folder: _site
     - name: Create Google verification file
       run: |
-        echo "google-site-verification: googlef90c715fa5afc4cb.html" > _site/googlef90c715fa5afc4cb.html
+        echo "google-site-verification: googlef90c715fa5afc4cb.html" > /googlef90c715fa5afc4cb.html
