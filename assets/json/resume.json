@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Andrea Moschetto",
-    "label": "Software Engineer and Developer",
+    "label": "Software Engineer and Developer. Data Science student",
     "image": "",
     "email": "andreamoschetto99@gmail.com",
     "phone": "(+39)3885844948",
     "url": "http://andreamoschetto.github.io",
-    "summary": "Proficient software engineer developing efficient and optimized software solutions for distributed web micro-services",
+    "summary": "Proficient software engineer developing efficient and optimized software solutions for distributed web micro-services. Data Science student at University of Catania",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,14 +24,23 @@
   },
   "work": [
     {
+      "name": "University of Catania",
+      "position": "Computer Science Tutor",
+      "startDate": "2024-10-01",
+      "endDate": "2025",
+      "summary": "Proficient in Python programming for developing efficient and optimized software solutions",
+      "highlights": 
+        ["Distributed Systems","Microservices","Event Streaming","Integration and UnitTest"]
+    },
+    {
       "name": "Herakel",
       "position": "Softwere Engineer and Developer",
       "url": "https://www.herakel.com/",
       "startDate": "2023-01-01",
       "endDate": "2023-09-01",
-      "summary": "Proficient in Python programming for developing efficient and optimized software solutions",
+      "summary": "Tutoring activities for the course \"Fondamenti di Informatica\"",
       "highlights": 
-        ["Distributed Systems","Microservices","Event Streaming","Integration and UnitTest"]
+        ["Computational models","Formal lamguages","Functional programming","Logic"]
     }
   ],
   "volunteer": [],
@@ -148,16 +157,17 @@
       "keywords": [
         "Formalization",
         "Functional programming",
-        "Formal Systems"
+        "Computational models",
+        "Formal languages"
       ]
     },
     {
-      "name": "AI",
+      "name": "Data Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Neural Networks",
         "Machine Learning",
-        "Data Science"
+        "Deep Learning"
       ]
     }
   ],
