@@ -1,157 +1,116 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Andrea Moschetto",
+    "label": "Software Engineer and Data Science student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "andreamoschetto99@gmail.com",
+    "phone": "(+39)3885844948",
+    "url": "http://andreamoschetto.github.io",
+    "summary": "Proficient software engineer developing efficient and optimized software solutions for distributed web micro-services. Data Science student at University of Catania",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Catania",
+      "countryCode": "IT",
+      "region": "Sicily"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "andrea-moschetto",
+        "url": "https://www.linkedin.com/in/andrea-moschetto/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "University of Catania",
+      "position": "Computer Science Tutor",
+      "startDate": "2024-10",
+      "url":"https://www.unict.it/",
+      "endDate": "",
+      "summary": "Tutoring activities for the course \"Fondamenti di Informatica\"",
+      "highlights": 
+      ["Computational models","Formal lamguages","Functional programming","Logic"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Herakel",
+      "position": "Softwere Engineer and Developer",
+      "url": "https://www.herakel.com/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-09-01",
+      "summary": "Proficient in Python programming for developing efficient and optimized software solutions",
+      "highlights": 
+      ["Distributed Systems","Microservices","Event Streaming","Integration and UnitTest"]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Catania, Sicily, Italy",
+      "location": "Sicily, Italy",
+      "url": "https://www.unict.it/",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2018-09-01",
+      "endDate": "2024-03-01",
+      "score": "110 cum laude",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic Scholarships",
+      "date": "2018/19 - 2020/21",
+      "awarder": "ERSU",
+      "url": "https://www.ersucatania.it/",
+      "summary": ""
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "The Great Textual Hoax: Boosting Sampled String Matching with Fake Samples",
+      "publisher": "Schloss Dagstuhl -- Leibniz-Zentrum fur Informatik",
+      "releaseDate": "2024-05-29",
+      "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2024.13",
+      "summary": "It concerned an algorithm for the sampled string matching problem, which is a well-known problem in computer science. The algorithm is based on the idea of using fake samples to boost the performance of the algorithm."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "WebDev",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Laravel", "Express", "Node.js", "HTML", "CSS", "SQL", "Apache"
       ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C", "C++", "C#", "Java", "JavaScript", "Typescript", "Python", "PHP"]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Docker", "Kafka", "Kubernetes"]
+    },
+    {
+      "name": "Dev Tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Visual Studio Code", "Git"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +122,64 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Communication",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Public Speaking",
+        "Emphaty",
+        "Active Listening",
+        "Engagement",
+        "Effective Presentation",
+        "Body Language"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Design Patterns",
+        "Refactoring",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "name": "Algorithms",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "String Matching",
+        "Data Structures",
+        "Computational Complexity",
+        "Code Optimization"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Unity3d",
+        "Godot"
+      ]
+    },
+    {
+      "name": "Logic and Mathematics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Formalization",
+        "Functional programming",
+        "Computational models",
+        "Formal languages"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Neural Networks",
+        "Machine Learning",
+        "Deep Learning"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "references": [],
+  "projects": []
 }
