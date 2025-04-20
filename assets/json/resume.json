@@ -6,7 +6,7 @@
     "email": "andreamoschetto99@gmail.com",
     "phone": "(+39)3885844948",
     "url": "http://andreamoschetto.github.io",
-    "summary": "Proficient software engineer developing efficient and optimized software solutions for distributed web micro-services. Data Science student at University of Catania",
+    "summary": "Passionate software engineer with a focus on scalable systems, distributed architectures, and AI. Currently expanding my expertise in deep learning and computer vision through academic research and hands-on experimentation.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -16,7 +16,7 @@
     },
     "profiles": [
       {
-        "network": "Linkedin",
+        "network": "LinkedIn",
         "username": "andrea-moschetto",
         "url": "https://www.linkedin.com/in/andrea-moschetto/"
       }
@@ -27,21 +27,29 @@
       "name": "University of Catania",
       "position": "Computer Science Tutor",
       "startDate": "2024-10",
-      "url":"https://www.unict.it/",
+      "url": "https://www.unict.it/",
       "endDate": "",
       "summary": "Tutoring activities for the course \"Fondamenti di Informatica\"",
-      "highlights": 
-      ["Computational models","Formal lamguages","Functional programming","Logic"]
+      "highlights": [
+        "Computational models",
+        "Formal languages",
+        "Functional programming",
+        "Logic"
+      ]
     },
     {
       "name": "Herakel",
-      "position": "Softwere Engineer and Developer",
+      "position": "Software Engineer and Developer",
       "url": "https://www.herakel.com/",
       "startDate": "2023-01-01",
       "endDate": "2023-09-01",
       "summary": "Proficient in Python programming for developing efficient and optimized software solutions",
-      "highlights": 
-      ["Distributed Systems","Microservices","Event Streaming","Integration and UnitTest"]
+      "highlights": [
+        "Distributed Systems",
+        "Microservices",
+        "Event Streaming",
+        "Integration and Unit Testing"
+      ]
     }
   ],
   "volunteer": [],
@@ -71,7 +79,7 @@
   "publications": [
     {
       "name": "The Great Textual Hoax: Boosting Sampled String Matching with Fake Samples",
-      "publisher": "Schloss Dagstuhl -- Leibniz-Zentrum fur Informatik",
+      "publisher": "Schloss Dagstuhl -- Leibniz-Zentrum für Informatik",
       "releaseDate": "2024-05-29",
       "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2024.13",
       "summary": "It concerned an algorithm for the sampled string matching problem, which is a well-known problem in computer science. The algorithm is based on the idea of using fake samples to boost the performance of the algorithm."
@@ -79,33 +87,45 @@
   ],
   "skills": [
     {
+      "name": "AI & Data Science",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch",
+        "Lightning",
+        "TensorFlow",
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "OpenCV",
+        "Spark"
+      ]
+    },
+    {
       "name": "WebDev",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Laravel", "Express", "Node.js", "HTML", "CSS", "SQL", "Apache"
-      ]
+      "keywords": ["Laravel", "Express", "Node.js", "HTML", "CSS", "SQL", "Apache"]
     },
     {
       "name": "Languages",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C", "C++", "C#", "Java", "JavaScript", "Typescript", "Python", "PHP"]
+      "keywords": ["C", "C++", "C#", "Java", "JavaScript", "TypeScript", "Python", "PHP"]
     },
     {
       "name": "DevOps",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Docker", "Kafka", "Kubernetes"]
+      "keywords": ["Docker", "Kafka", "Kubernetes"]
     },
     {
       "name": "Dev Tools",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Visual Studio Code", "Git"]
+      "keywords": ["Visual Studio Code", "Git"]
     }
   ],
   "languages": [
@@ -126,7 +146,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Public Speaking",
-        "Emphaty",
+        "Empathy",
         "Active Listening",
         "Engagement",
         "Effective Presentation",
@@ -134,13 +154,25 @@
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Data Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Statistical Learning", "Neural Networks", "Deep Learning"]
+    },
+    {
+      "name": "Visual AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Design Patterns",
-        "Refactoring",
-        "Distributed Systems"
+        "Computer Vision",
+        "Video Understanding",
+        "Representation Learning",
+        "Generative Models",
+        "Image Processing"
       ]
+    },
+    {
+      "name": "Software Engineering",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Design Patterns", "Refactoring Strategies", "Distributed Systems"]
     },
     {
       "name": "Algorithms",
@@ -150,14 +182,6 @@
         "Data Structures",
         "Computational Complexity",
         "Code Optimization"
-      ]
-    },
-    {
-      "name": "Game Development",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Unity3d",
-        "Godot"
       ]
     },
     {
@@ -171,13 +195,9 @@
       ]
     },
     {
-      "name": "Data Science",
+      "name": "Game Development",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Neural Networks",
-        "Machine Learning",
-        "Deep Learning"
-      ]
+      "keywords": ["Unity3D", "Godot"]
     }
   ],
   "references": [],

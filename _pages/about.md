@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Andrea Moschetto, a passionate software engineer driven by technology. I graduated cum laude with a Bachelor’s degree in Computer Science from the University of Catania in March 2024.
-
-My eagerness to explore and embrace new opportunities has steered me towards diverse ventures. Being welcomed into the ranks of Herakel as a Software Engineer and Developer in January 2023, I've honed programming skills and adopted innovative approaches.
-
-As I move forward, my goal is to expand expertise and collaborate with fellow enthusiasts. I'm excited to explore evolving technology landscapes, algorithms, design patterns, game development, and AI.
+Hello! I'm Andrea Moschetto, a passionate software engineer and Computer Science graduate from the University of Catania, where I earned my degree cum laude in March 2024.
+My enthusiasm for algorithms, systems design, and artificial intelligence has led me to explore diverse fields — from distributed systems and backend development to deep learning, game development, and computer vision.
+In 2023, I joined Herakel as a Software Engineer and Developer, where I deepened my experience with scalable systems and modern architectures. In parallel, I’ve cultivated a growing academic interest in the foundations of deep learning and its applications to visual understanding problems.
+I'm now looking to refine my long-term research direction by exploring adjacent domains such as video analysis and applied computer vision. I’m always eager to expand my knowledge and collaborate with people driven by research and innovation.
+Motivated by curiosity, driven by impact.
