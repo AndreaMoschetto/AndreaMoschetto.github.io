@@ -53,6 +53,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-recently-took-on-the-role-of-a-tutor-in-the-course-fondamenti-di-informatica-at-university-of-catania",
           title: 'I recently took on the role of a tutor in the course “Fondamenti...',
           description: "",
+          section: "News",},{id: "news-published-our-article-on-benchmarking-gans-diffusion-models-and-flow-matching-for-t1w-to-t2w-mri-translation-in-cvgmmi-workshop-iciap-2025",
+          title: 'Published our article on Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
