@@ -28,7 +28,7 @@
       "position": "Computer Science Tutor",
       "startDate": "2024-10",
       "url": "https://www.unict.it/",
-      "endDate": "",
+      "endDate": "2025-07",
       "summary": "Tutoring activities for the course \"Fondamenti di Informatica\"",
       "highlights": [
         "Computational models",
@@ -77,6 +77,13 @@
   ],
   "certificates": [],
   "publications": [
+    {
+      "name":"Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w MRI Translation",
+      "publisher": "CVGMMI Workshop (ICIAP 2025)",
+      "releaseDate": "2025-07-22",
+      "url": "https://arxiv.org/abs/2507.14575",
+      "summary": "This paper presents a comprehensive benchmarking study of various generative models, including GANs, diffusion models, and flow matching, specifically applied to the task of translating T1-weighted MRI images to T2-weighted MRI images."
+    },
     {
       "name": "The Great Textual Hoax: Boosting Sampled String Matching with Fake Samples",
       "publisher": "Schloss Dagstuhl -- Leibniz-Zentrum für Informatik",
