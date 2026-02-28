@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-functional-and-concurrent-programming-principles-lecture-notes",
+        },{id: "post-weaviate-starting-guide",
+        
+          title: "Weaviate Starting Guide",
+        
+        description: "A practical step-by-step tutorial on building a Retrieval-Augmented Generation (RAG) pipeline from scratch using Weaviate Vector Database, Python, and Google Gemini.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/WeaviateSG/intro-welcome.html";
+          
+        },
+      },{id: "post-functional-and-concurrent-programming-principles-lecture-notes",
         
           title: "Functional and Concurrent Programming Principles [Lecture Notes]",
         
