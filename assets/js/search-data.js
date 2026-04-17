@@ -67,6 +67,9 @@ ninja.data = [{
           section: "News",},{id: "news-published-our-article-on-benchmarking-gans-diffusion-models-and-flow-matching-for-t1w-to-t2w-mri-translation-in-cvgmmi-workshop-iciap-2025",
           title: 'Published our article on Benchmarking GANs, Diffusion Models, and Flow Matching for T1w-to-T2w...',
           description: "",
+          section: "News",},{id: "news-received-master-s-degree-in-computer-science-at-university-of-catania-grade-110-110-cum-laude-nomination-for-the-archimede-award",
+          title: '🎓 Received Master’s degree in Computer Science at University of Catania Grade: 110/110...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
