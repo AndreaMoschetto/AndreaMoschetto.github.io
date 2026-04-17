@@ -26,9 +26,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hello! I'm Andrea Moschetto, a Machine Learning Engineer and Computer Science M.Sc. graduate from the University of Catania, where I earned my degree with honors in April 2026.
 
-Hello! I'm Andrea Moschetto, a passionate software engineer and Computer Science graduate from the University of Catania, where I earned my degree cum laude in March 2024.
-My enthusiasm for algorithms, systems design, and artificial intelligence has led me to explore diverse fields — from distributed systems and backend development to deep learning, game development, and computer vision.
-In 2023, I joined Herakel as a Software Engineer and Developer, where I deepened my experience with scalable systems and modern architectures. In parallel, I’ve cultivated a growing academic interest in the foundations of deep learning and its applications to visual understanding problems.
-I'm now looking to refine my long-term research direction by exploring adjacent domains such as video analysis and applied computer vision. I’m always eager to expand my knowledge and collaborate with people driven by research and innovation.
+My enthusiasm for algorithms, artificial intelligence, and systems design has led me to explore the intersection between theoretical research and scalable software engineering. During my academic journey, I authored 3 publications spanning Machine Learning, Medical Imaging, and Algorithms, culminating in a master's thesis focused on Video Understanding.
+
+In parallel to my research, I have hands-on experience in backend development and distributed architectures, having worked as a Software Engineer developing Python microservices.
+
+Today, my main focus is bridging the gap between advanced AI research and real-world implementation. I specialize in building, optimizing, and deploying robust Machine Learning solutions, and I am always eager to collaborate with teams driven by innovation.
+
 Motivated by curiosity, driven by impact.

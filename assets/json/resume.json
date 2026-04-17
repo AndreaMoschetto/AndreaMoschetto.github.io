@@ -6,7 +6,7 @@
     "email": "andreamoschetto99@gmail.com",
     "phone": "(+39)3885844948",
     "url": "http://andreamoschetto.github.io",
-    "summary": "Passionate software engineer with a focus on scalable systems, distributed architectures, and AI. Currently expanding my expertise in deep learning and computer vision through academic research and hands-on experimentation.",
+    "summary": "Recent M.Sc. graduate in Computer Science with a strong foundation in Artificial Intelligence, Computer Vision, and Software Engineering. I specialize in bridging the gap between advanced theoretical research—highlighted by 3 publications in ML and Algorithms—and scalable, production-ready applications. Leveraging hands-on experience in backend development and Python microservices, I am focused on building, optimizing, and deploying robust Machine Learning solutions in real-world environments.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -54,6 +54,17 @@
   ],
   "volunteer": [],
   "education": [
+    {
+      "institution": "University of Catania, Sicily, Italy",
+      "location": "Sicily, Italy",
+      "url": "https://www.unict.it/",
+      "area": "Computer Science",
+      "studyType": "Master's Degree",
+      "startDate": "2024",
+      "endDate": "2026-04-15",
+      "score": "110 cum laude + nomination for the Archimede Award",
+      "courses": []
+    },
     {
       "institution": "University of Catania, Sicily, Italy",
       "location": "Sicily, Italy",
@@ -111,6 +122,12 @@
       ]
     },
     {
+      "name": "DevOps",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["AWS", "Docker", "Kafka", "Kubernetes", "Terraform"]
+    },
+    {
       "name": "WebDev",
       "level": "",
       "icon": "fa-solid fa-hashtag",
@@ -121,12 +138,6 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["C", "C++", "C#", "Java", "JavaScript", "TypeScript", "Python", "PHP"]
-    },
-    {
-      "name": "DevOps",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Docker", "Kafka", "Kubernetes"]
     },
     {
       "name": "Dev Tools",
