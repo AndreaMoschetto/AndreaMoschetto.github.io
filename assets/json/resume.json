@@ -101,6 +101,13 @@
       "releaseDate": "2024-05-29",
       "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FUN.2024.13",
       "summary": "It concerned an algorithm for the sampled string matching problem, which is a well-known problem in computer science. The algorithm is based on the idea of using fake samples to boost the performance of the algorithm."
+    },
+    {
+      "name": "Beyond Horspool: A Comparative Analysis in Sampled Matching",
+      "publisher": "28th Prague Stringology Conference (PSC)",
+      "releaseDate": "2024-08",
+      "url": "https://www.stringology.org/papers/PSC2024.pdf#page=24",
+      "summary": "This paper demonstrates that replacing the traditional Horspool algorithm with alternative methods in sampled string matching drastically accelerates text search times while maintaining a near-zero memory footprint."
     }
   ],
   "skills": [
